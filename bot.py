@@ -1,7 +1,7 @@
 ### course_bot/config.py
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_USERNAME = "Exynos e"
+BOT_TOKEN = "7681270870:AAH2qNcU2DJinKn8Vphstp4xEBIV5Z7bl6M"
+ADMIN_USERNAME = "@Xenos56make"
 COURSE_DIRECTORY = "C:\Windows.old\Users\ADMIN\Desktop\it\Series"
 GOOGLE_SHEET_NAME = "Tg_Bot_User_Data"
 CREDENTIALS_FILE = "tg_Bot.json"
